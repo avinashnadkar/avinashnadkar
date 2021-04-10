@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Avinash Nadkar
+- 👋 Hi, I’m Avinash
 - 👀 I’m interested in virtual/augmented reality, web-development, AI.
 - 🌱 I’m currently learning Unity3D, React.js, Algorithms and Data structuers.
 - 💞️ I’m looking to collaborate on Arduino projects, Virtual and Augmented Reality, Artificial Intelligence and Game Development
