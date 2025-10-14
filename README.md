@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avinash
 - 👀 I’m interested in web-development, AI development.
 - 💞️ I’m looking to collaborate on Web apps, Artificial Intelligence.
-- 📫 My Portfolio ->  https://avinash-nadkar.netlify.app/
+- 📫 My Portfolio ->  https://avinashnadkar.github.io/portfolio-3.0/
 - 📫 My linkedIn ->  https://www.linkedin.com/in/avinash-nadkar-5932681a3
 <!-- - 📫 My Youtube -> https://www.youtube.com/channel/UCJ-8G3lIgGSAgB6Fpk1fjBQ ->
 
